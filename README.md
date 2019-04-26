@@ -1,7 +1,7 @@
 # INFO6210-Final-Project
 MIT License
 
-Copyright (c) 2019 Nik Bear Brown
+Copyright (c) 2019 TongLiu, Congxiang Dong, Quan Wen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
